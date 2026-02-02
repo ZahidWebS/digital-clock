@@ -13,8 +13,6 @@ A real-time digital clock built using **HTML, CSS, and JavaScript**.
 - CSS
 - JavaScript
 
-## Live Demo
-https://username.github.io/digital-clock/
 
 ## Author
 Zahid Hussain
